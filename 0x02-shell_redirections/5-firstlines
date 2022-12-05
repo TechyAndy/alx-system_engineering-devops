@@ -1,5 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-=======
 head /etc/passwd 
->>>>>>> 2785ed06465ec1401e129dac037af1c8f0244cff
